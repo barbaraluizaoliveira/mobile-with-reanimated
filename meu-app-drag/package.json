@@ -1,0 +1,21 @@
+{
+  "name": "meu-app-drag",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "expo start",
+    "android": "expo start --android",
+    "ios": "expo start --ios",
+    "web": "expo start --web"
+  },
+  "dependencies": {
+    "expo": "~55.0.25",
+    "expo-status-bar": "~55.0.6",
+    "expo-updates": "~55.0.23",
+    "react": "19.2.0",
+    "react-native": "0.83.6",
+    "react-native-gesture-handler": "~2.30.0",
+    "react-native-reanimated": "4.2.1"
+  },
+  "private": true
+}
